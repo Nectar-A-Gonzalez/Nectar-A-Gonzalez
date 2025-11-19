@@ -9,4 +9,10 @@ I already have a lot of ideas, I hope to be able to make them soon! 🌠
 
 I'm always eager to learn something new.
 
+
+
+
+
+
+
 (By the way, I did write this by hand but I used emojis as bullet points, so it looks AI generated 0_0)
