@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there, nice to meet you!
 - 🤖 I'm a mechanical engineering undergraduate, with a minor in robotics!
 - 📖 I'm currently learning Python, Github, ROS2 and CAD. Also trying to better make and organize documentation.
 - 🔥 My motivation right now is that I want to learn how to write the most efficient and clean code solutions possible and the most thorough and useful documentation for my projects, designs and experimentations. 
