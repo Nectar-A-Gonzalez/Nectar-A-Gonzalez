@@ -1,4 +1,4 @@
-## Hey there, nice to meet you!
+# Hey there, nice to meet you!
 ## My name's Néctar!
 - 🤖 I'm a mechanical engineering undergraduate, with a minor in robotics!
 - 📖 I'm currently learning Python, Github, ROS2 and CAD. Also trying to better make and organize documentation.
